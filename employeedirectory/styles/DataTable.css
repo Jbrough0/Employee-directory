@@ -4,7 +4,7 @@
 .datatable .col .pointer::after {
     font-size: 90%;
     content: "";
-    margin-right: 15px;
+    margin-right: 10px;
 }
 .datatable .col .pointer:hover::after {
     font-size: 90%;
