@@ -4,9 +4,7 @@ import "../styles/Main.css";
 
 function Main () {
     return (
-        <>
         <DataArea />
-        </>
     );
 };
 export default Main;
